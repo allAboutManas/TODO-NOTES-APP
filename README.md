@@ -18,7 +18,7 @@ Follow these steps to set up the app locally:
 
 Clone the Repository:
 
-Clone this repository to your local machine using git clone <repository_url>.
+Clone this repository to your local machine using git clone https://github.com/allAboutManas/TODO-NOTES-APP.git
 Install Dependencies:
 Navigate to the project folder: cd todo-notes-app.
 Install the required dependencies: npm install.
